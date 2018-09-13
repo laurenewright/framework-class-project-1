@@ -26,10 +26,10 @@ is https://repl.it. Today we are going to use it to demo our Array Functions.
 
 ## React Components/Props/State Reading
 
-https://reactjs.org/docs/components-and-props.html
-https://reactjs.org/docs/state-and-lifecycle.html
-https://reactjs.org/docs/faq-state.html
-https://reactjs.org/docs/react-component.html
+- https://reactjs.org/docs/components-and-props.html
+- https://reactjs.org/docs/state-and-lifecycle.html
+- https://reactjs.org/docs/faq-state.html
+- https://reactjs.org/docs/react-component.html
 
 ## Displaying Arrays in React
 

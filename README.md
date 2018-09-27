@@ -1,4 +1,4 @@
-# Week 3
+# Week 3 - 9.27.2018
 
 ## House Keeping
 
